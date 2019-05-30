@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Max Rudzon\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Max Rudzon\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_TapShooter.-97538712.00" t="ExcludeRecursive" />
+    <e p="D:\Work\TapShooter\TapShooter" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="CreateAssetBundles.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="DownloadScript.cs" t="Include" />
+          <e p="GameStuff" t="Include">
+            <e p="GameManager.cs" t="Include" />
+            <e p="UIController.cs" t="Include" />
+          </e>
+          <e p="MainMenuController.cs" t="Include" />
+          <e p="Pops" t="Include">
+            <e p="PopNegativeLogic.cs" t="Include" />
+            <e p="PopPositiveLogic.cs" t="Include" />
+            <e p="PopUpLogic.cs" t="Include" />
+          </e>
+          <e p="ProgramController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TapShooter.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
